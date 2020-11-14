@@ -39,7 +39,7 @@ The analysis of the election show that:
 - The county with the largest number of votes was:
     - Denver, who received 82.8% of the vote and 306,055 number of voters.
     
--The candidate resuls were:
+- The candidate resuls were:
     - Charles Casper Stockham received 23.0 % of the vote and 85,213 number of votes.
     - Diana DeGette received 73.8 % of the vote and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1 % of the vote and 11,606 number of votes.
@@ -55,6 +55,6 @@ The analysis of the election show that:
     with open(file_to_load) as election_data:
         reader = csv.reader(election_data)
         
-- We can load a different file that has data from a different election. 
+   - We can load a different file that has data from a different election. 
 
 
