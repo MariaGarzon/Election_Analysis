@@ -48,5 +48,5 @@ A colorado Board of Elections employee has given me the following tasks to compl
 
 # Summary
 
-- This script can easily be used for any type of election. For instance, we can change the counties to state for fderal congressional election.
+- This script can easily be used for any type of election. For instance, we can change the counties to state for federal congressional election.
 
