@@ -19,7 +19,7 @@ A colorado Board of Elections employee has given me the following tasks to compl
 
 ## Results
 
-![election_analysis.txt](https://github.com/MariaGarzon/Election_Analysis/blob/700597476de7734f1c85443e6db4f714d8922d53/election_analysis.txt).
+![election_analysis.txt](https://github.com/MariaGarzon/Election_Analysis/blob/e30ed0a3d3e52037f1f1879a5b330115eaf77038/analysis/py_poll_terminal_screenshot.png).
 
 - Total Votes = 369,711
 
@@ -48,12 +48,5 @@ A colorado Board of Elections employee has given me the following tasks to compl
 
 # Summary
 
-- This script can easily be used for any type of election by changing the file read to collect the data. 
-- For instance, in the following code:
-    
-    with open(file_to_load) as election_data:
-        reader = csv.reader(election_data)
-        
-   - We can load a different file that has data from a different election. 
-
+- This script can easily be used for any type of election. For instance, we can change the counties to state for federal congressional election.
 
