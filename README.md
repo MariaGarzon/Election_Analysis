@@ -48,12 +48,5 @@ A colorado Board of Elections employee has given me the following tasks to compl
 
 # Summary
 
-- This script can easily be used for any type of election by changing the file read to collect the data. 
-- For instance, in the following code:
-    
-    with open(file_to_load) as election_data:
-        reader = csv.reader(election_data)
-        
-   - We can load a different file that has data from a different election. 
-
+- This script can easily be used for any type of election. For instance, we can change the counties to state for fderal congressional election.
 
