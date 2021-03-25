@@ -19,7 +19,7 @@ A colorado Board of Elections employee has given me the following tasks to compl
 
 ## Results
 
-![election_analysis.txt](https://github.com/MariaGarzon/Election_Analysis/blob/700597476de7734f1c85443e6db4f714d8922d53/election_analysis.txt).
+![election_analysis.txt](https://github.com/MariaGarzon/Election_Analysis/blob/e30ed0a3d3e52037f1f1879a5b330115eaf77038/analysis/py_poll_terminal_screenshot.png).
 
 - Total Votes = 369,711
 
