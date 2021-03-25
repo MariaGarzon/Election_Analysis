@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-A colorado Board of Elections employee has given me the following tasks to complete the election audti of a recent local congressional election. 
+A colorado Board of Elections employee has given me the following tasks to complete the election audit of their recent local congressional election: 
 
 1. Calculate the total number of votes cast.
 2. Calculate the voter turnout for each county.
@@ -17,12 +17,11 @@ A colorado Board of Elections employee has given me the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Code Studio, 1.38.1
 
-## Election-Audit Results
-The analysis of the election show that:
+## Results
 
-![election_analysis.txt](path/to/election_analysis.txt).
+![election_analysis.txt](https://github.com/MariaGarzon/Election_Analysis/blob/700597476de7734f1c85443e6db4f714d8922d53/election_analysis.txt).
 
-- There were 369,711 votes in the election
+- Total Votes = 369,711
 
 3 counties participated in the election
 
@@ -31,15 +30,15 @@ The analysis of the election show that:
     - Denver
     - Arapahoe
     
-- The county resuls were:
+- Number and percentage of votes per county:
     - Jefferson received 10.5 % of the vote and 38,855 number of votes.
     - Denver received 82.8 % of the vote and 306,055 number of votes.
     - Arapahoe received 6.7 % of the vote and 24,801number of votes.
     
-- The county with the largest number of votes was:
+- Largest County Turnout:
     - Denver, who received 82.8% of the vote and 306,055 number of voters.
     
-- The candidate resuls were:
+- Number and percentage of votes per candidate
     - Charles Casper Stockham received 23.0 % of the vote and 85,213 number of votes.
     - Diana DeGette received 73.8 % of the vote and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1 % of the vote and 11,606 number of votes.
@@ -47,9 +46,9 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-# Election-Audit Summary
+# Summary
 
-- The script presented can be used for other elections by changing the file read to collect the data. 
+- This script can easily be used for any type of election by changing the file read to collect the data. 
 - For instance, in the following code:
     
     with open(file_to_load) as election_data:
